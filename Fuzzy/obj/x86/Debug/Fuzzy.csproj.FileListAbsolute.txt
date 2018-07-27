@@ -1,0 +1,23 @@
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\bin\Debug\Fuzzy.exe
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\bin\Debug\Fuzzy.pdb
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\obj\x86\Debug\Fuzzy.Form1.resources
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\obj\x86\Debug\Fuzzy.Properties.Resources.resources
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\obj\x86\Debug\Fuzzy.csproj.GenerateResource.Cache
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\obj\x86\Debug\Fuzzy.exe
+C:\Users\Dezencut\AppData\Local\Temporary Projects\Fuzzy\obj\x86\Debug\Fuzzy.pdb
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.exe
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.pdb
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\bin\Debug\Fuzzy.exe
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\bin\Debug\Fuzzy.pdb
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Form1.resources
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Properties.Resources.resources
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csproj.GenerateResource.Cache
+C:\Users\Dezencut\documents\visual studio 2010\Projects\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csprojResolveAssemblyReference.cache
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.exe
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.pdb
+D:\Fuzzy\Fuzzy\bin\Debug\Fuzzy.exe
+D:\Fuzzy\Fuzzy\bin\Debug\Fuzzy.pdb
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csprojResolveAssemblyReference.cache
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Form1.resources
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.Properties.Resources.resources
+D:\Fuzzy\Fuzzy\obj\x86\Debug\Fuzzy.csproj.GenerateResource.Cache
